@@ -11,3 +11,4 @@ function findMatches(argsArray, ...args) {
 }
 console.log(findMatches([1, 2, 3, 4, 5], 1, 8, 2, 7));
 console.log(findMatches([1, 2, 3, 4, 5], 1, 8, 9, 5));
+console.log(findMatches([1, 2, 3, 4, 5], 0, 8, 9, 7));
